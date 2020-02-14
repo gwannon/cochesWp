@@ -1,0 +1,13 @@
+
+.icon-asientos:before { content: '\e800'; } /* '' */
+.icon-calendario:before { content: '\e801'; } /* '' */
+.icon-cambio:before { content: '\e802'; } /* '' */
+.icon-color:before { content: '\e803'; } /* '' */
+.icon-consumo:before { content: '\e804'; } /* '' */
+.icon-fuel:before { content: '\e805'; } /* '' */
+.icon-garantía:before { content: '\e806'; } /* '' */
+.icon-kms:before { content: '\e807'; } /* '' */
+.icon-localizacion:before { content: '\e808'; } /* '' */
+.icon-motor-cv:before { content: '\e809'; } /* '' */
+.icon-puerta:before { content: '\e80a'; } /* '' */
+.icon-transporte:before { content: '\e80b'; } /* '' */
